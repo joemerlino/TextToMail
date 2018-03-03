@@ -1,0 +1,9 @@
+Package: com.joemerlino.texttomail
+Name: TextToMail
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Forward messages to email.
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
